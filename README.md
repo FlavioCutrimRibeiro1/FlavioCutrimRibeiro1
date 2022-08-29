@@ -7,7 +7,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioCutrimRibeiro1&show_icons=true&theme=radical)
 
-
-  ![Snake animation](https://github.com/FlavioCutrimRibeiro1/FlavioCutrimRibeiro1/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
